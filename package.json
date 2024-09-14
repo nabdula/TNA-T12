@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^latest"
+    "express": "latest"
   },
   "author": "",
   "license": "ISC",
